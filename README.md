@@ -1,5 +1,5 @@
 # optimization-progam
-This program takes a floder of backup files from a database and finds all of the needed information about them such as name, size, row count. It takes all of that information
+This program takes a folder of backup files from a database and finds all of the needed information about them such as name, size, row count. It takes all of that information
 and writes it down into a CSV file so it could be further used in graphing in excel.
 
 2018
